@@ -1,1 +1,1 @@
-# ToolTip-Retreiving-the-hover-text
+# ToolTip-Retrieving-the-hover-text
